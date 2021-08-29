@@ -1,0 +1,63 @@
+{
+    "date": "2021-08-28",
+    "member": {
+        "879343141122080778": {
+            "attack": [
+                {
+                    "status": 2,
+                    "carry_over": 90
+                },
+                {
+                    "status": 1,
+                    "carry_over": 50
+                },
+                {
+                    "status": 0,
+                    "carry_over": 0
+                }
+            ],
+            "reservation": [
+                [],
+                [],
+                [
+                    {
+                        "status": 1,
+                        "lap_no": 1,
+                        "boss_id": 0,
+                        "damage": 500,
+                        "comment": "",
+                        "datetime": "2021-08-28T15:17:45.839859"
+                    }
+                ]
+            ]
+        },
+        "834729681390796851": {
+            "attack": [
+                {
+                    "status": 0,
+                    "carry_over": 0
+                },
+                {
+                    "status": 0,
+                    "carry_over": 0
+                },
+                {
+                    "status": 0,
+                    "carry_over": 0
+                }
+            ],
+            "reservation": [
+                [
+                    {
+                        "status": 1,
+                        "lap_no": 1,
+                        "boss_id": 3,
+                        "damage": 200,
+                        "comment": "",
+                        "datetime": "2021-08-28T13:49:19.550018"
+                    }
+                ]
+            ]
+        }
+    }
+}

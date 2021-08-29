@@ -1,0 +1,81 @@
+{
+    "date": "2021-08-29",
+    "member": {
+        "834729681390796851": {
+            "attack": [
+                {
+                    "status": 1,
+                    "carry_over": 90
+                },
+                {
+                    "status": 0,
+                    "carry_over": 0
+                },
+                {
+                    "status": 0,
+                    "carry_over": 0
+                }
+            ],
+            "reservation": [
+                [
+                    {
+                        "status": 2,
+                        "lap_no": 1,
+                        "boss_id": 4,
+                        "damage": 500,
+                        "comment": "",
+                        "datetime": "2021-08-29T21:16:56.725640"
+                    }
+                ]
+            ]
+        },
+        "879343141122080778": {
+            "attack": [
+                {
+                    "status": 0,
+                    "carry_over": 0
+                },
+                {
+                    "status": 0,
+                    "carry_over": 0
+                },
+                {
+                    "status": 0,
+                    "carry_over": 0
+                }
+            ],
+            "reservation": [
+                [
+                    {
+                        "status": 1,
+                        "lap_no": 2,
+                        "boss_id": 4,
+                        "damage": 200,
+                        "comment": "",
+                        "datetime": "2021-08-29T20:07:41.955338"
+                    }
+                ],
+                [
+                    {
+                        "status": 1,
+                        "lap_no": 1,
+                        "boss_id": 1,
+                        "damage": 500,
+                        "comment": "",
+                        "datetime": "2021-08-29T20:32:46.565492"
+                    }
+                ],
+                [
+                    {
+                        "status": 1,
+                        "lap_no": 2,
+                        "boss_id": 4,
+                        "damage": 1000,
+                        "comment": "",
+                        "datetime": "2021-08-29T21:13:49.212295"
+                    }
+                ]
+            ]
+        }
+    }
+}

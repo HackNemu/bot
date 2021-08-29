@@ -1,0 +1,37 @@
+[
+    {
+        "name": "\u30ef\u30a4\u30d0\u30fc\u30f3",
+        "lap_no": 1,
+        "max_hp": 600,
+        "hp": -29400,
+        "status": 0
+    },
+    {
+        "name": "\u30e9\u30a4\u30e9\u30a4",
+        "lap_no": 1,
+        "max_hp": 800,
+        "hp": 300,
+        "status": 0
+    },
+    {
+        "name": "\u30e9\u30a4\u30c7\u30f3",
+        "lap_no": 1,
+        "max_hp": 1000,
+        "hp": 700,
+        "status": 0
+    },
+    {
+        "name": "\u30bd\u30fc\u30c9\u30b3\u30d6\u30e9",
+        "lap_no": 1,
+        "max_hp": 1200,
+        "hp": 1200,
+        "status": 0
+    },
+    {
+        "name": "\u30e1\u30c7\u30e5\u30fc\u30b5",
+        "lap_no": 2,
+        "max_hp": 1500,
+        "hp": 1500,
+        "status": 0
+    }
+]
